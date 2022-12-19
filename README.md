@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Mail Express
-- 🌱 I’m currently learning HTML, CSS AND JAVASCRIPT
+- 🌱 I’m currently learning HTML, CSS, NodeJs AND JAVASCRIPT
 
 ## Technologies I use in my day
 
