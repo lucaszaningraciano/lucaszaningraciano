@@ -11,8 +11,11 @@ JavaScript: Proficiência em manipulação de DOM, interações assíncronas e r
 React: Especializado em desenvolvimento com React, utilizando componentização e gerenciamento de estado para criar interfaces modernas e escaláveis.
 
 Como Entrar em Contato
+
 LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/lucas-zanin-925750245/)
+
 Email: lucas.zanin.graciano@hotmail.com
+
 Instagram: @lucas.zaning
 
 Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos interessantes. Vamos criar algo incrível juntos! 😊
