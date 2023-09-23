@@ -1,4 +1,3 @@
-Sobre Mim
 Olá! Sou um apaixonado desenvolvedor front-end com expertise em HTML, CSS, JavaScript e React. Minha jornada no mundo da programação começou com o desejo de criar interfaces atraentes e interativas que proporcionem uma excelente experiência ao usuário. Com o tempo, mergulhei fundo no ecossistema do React, consolidando minha especialização nesse framework para construir aplicações web de alta qualidade.
 
 Principais Habilidades
